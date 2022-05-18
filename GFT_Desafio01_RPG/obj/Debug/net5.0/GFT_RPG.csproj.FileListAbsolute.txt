@@ -1,0 +1,16 @@
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\bin\Debug\net5.0\GFT_RPG.exe
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\bin\Debug\net5.0\GFT_RPG.deps.json
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\bin\Debug\net5.0\GFT_RPG.runtimeconfig.json
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\bin\Debug\net5.0\GFT_RPG.runtimeconfig.dev.json
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\bin\Debug\net5.0\GFT_RPG.dll
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\bin\Debug\net5.0\GFT_RPG.pdb
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\obj\Debug\net5.0\GFT_RPG.csproj.AssemblyReference.cache
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\obj\Debug\net5.0\GFT_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\obj\Debug\net5.0\GFT_RPG.AssemblyInfoInputs.cache
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\obj\Debug\net5.0\GFT_RPG.AssemblyInfo.cs
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\obj\Debug\net5.0\GFT_RPG.csproj.CoreCompileInputs.cache
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\obj\Debug\net5.0\GFT_RPG.dll
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\obj\Debug\net5.0\refint\GFT_RPG.dll
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\obj\Debug\net5.0\GFT_RPG.pdb
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\obj\Debug\net5.0\GFT_RPG.genruntimeconfig.cache
+C:\Users\hgali\source\repos\GFT_RPG\GFT_RPG\obj\Debug\net5.0\ref\GFT_RPG.dll
